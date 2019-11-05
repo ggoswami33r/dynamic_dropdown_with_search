@@ -26,7 +26,7 @@ public class JsonServlet extends HttpServlet {
                     list.add("Diego Maradona");*/
             }
 
-                else if (sportsName.equals("Football")) {
+                else if (sportsName.equals("Footballlllllll")) {
                         list.add("Lionel Messi");
                         list.add("Cristiano Ronaldo");
                         list.add("David Beckham");
