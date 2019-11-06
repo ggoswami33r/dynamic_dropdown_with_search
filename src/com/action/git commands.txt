@@ -1,0 +1,15 @@
+To update the current branch : git pull
+To create a new branch : git checkout -b new_branch_name
+To upload the new branch into Remote location : git push origin new_branch_name
+To see the all branch using : git branch -a
+To add a new file into a new branch : Git add or git add --all
+To commit a new file : Git commit -m "Commit message"
+To reflect that file into Github : git push origin "dev_branch"
+
+To merge this changes into master branch (current I am in development branch)
+
+  Pulling the latest changes in development branch if any  : git pull 
+  Switching to master branch : git checkout master
+  Pulling all the changes if any : git pull
+  Merging the development into master : git merge development
+  Pushing the master branch : git push origin master  
